@@ -1,6 +1,14 @@
 {
+    "name": "aleksandr-lesson_1-3",
+    "description": "My project laravel",
     "private": true,
     "type": "module",
+    "authors": [
+        {
+            "name": "aleksandr-suchugov",
+            "email": "alex.coup@yandex.ru"
+        }
+    ],
     "scripts": {
         "dev": "vite",
         "build": "vite build"
